@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3B8EF7FF&text=Zózimo%20Pereira&reversal=true&section=header&fontColor=ffffff">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E5EF7&width=1000&lines=Bem-vindos+ao+meu+perfil.+Sou+desenvolvedor+full+stack." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E5EF7&width=1000&lines=Bem-vindos+ao+meu+perfil.+Sou+desenvolvedor+full+stack+em+treinamento." alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0z1m0&show_icons=true&theme=dracula)
 
